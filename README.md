@@ -11,3 +11,6 @@
 - 😄 Pronouns: he/him
 - 🏈 Fun fact: In a moment of my life i was an Amateur American Football Player 
 
+<a href="https://github.com/vinnyfs89">
+    <img width="50%" align="left" width="50%" alt="Paulotrc github stats" src="https://github-readme-stats.vercel.app/api?username=Paulotrc&show_icons=true&hide_border=true" />
+</a>
