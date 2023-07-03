@@ -1,4 +1,4 @@
-### Hi All, i'm Paulo Carneiro, i'm a Fullstack Developer and now i'm focused as Backend Developer (MBA) specialized in Software and Solutions Architecture.  👋
+### Hi All, i'm Paulo Carneiro, i'm a Fullstack Developer and now i'm focused as Backend Developer specialized in Software and Solutions Architecture.  👋
 <!--**paulotrc/paulotrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on Microservices with Springboot and Cloud Computing;
