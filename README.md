@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/him
 - 🏈 Fun fact: In a moment of my life i was an Amateur American Football Player 
 
-💻 Tech Stack que uso ou já usei
+💻 Tech Stack i'm using or was used
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
